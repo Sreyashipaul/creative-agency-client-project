@@ -1,0 +1,16 @@
+.nav-item a{
+    color: #474747;
+    font-weight: 600;
+    transition: .4s;
+    border-bottom: 2px solid transparent;
+}
+
+.login-style {
+    
+    background-color: #111430;
+    width: 134px;
+}
+.login-style:hover{
+    border-bottom: 2px solid transparent !important;
+}
+

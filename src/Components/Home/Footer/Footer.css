@@ -1,0 +1,28 @@
+footer{
+    width: 100%;
+    height: 650px;
+    background: #FBD062;
+    margin-top: 150px;
+    padding: 50px 0;
+}
+footer input{
+    width: 630px;
+    height: 50px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    outline: none;
+    border: none;
+    padding: 10px 25px;
+    display: block;
+}
+footer textarea{
+    width: 630px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    outline: none;
+    border: none;
+    padding: 10px 25px;
+    resize: none;
+}
